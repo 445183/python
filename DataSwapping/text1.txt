@@ -1,0 +1,3 @@
+Your device must be running Windows 10, version 2004 or later, to upgrade. Free updates are available through Windows Update in Settings>Update and Security.
+
+Certain features require specific hardware.2 System requirements to run some apps will exceed the Windows 11 minimum device specifications. Check device compatibility information specific to the apps you want to install. Available storage on your device will vary based on installed apps and updates. Performance will scale with higher end, more capable PCs. Additional requirements may apply over time and for updates.
